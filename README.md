@@ -21,7 +21,7 @@ cp ~/.tmux.conf ~/.tmux.conf_bak
 
 2. just get the file
 
-curl https://raw.githubusercontent.com/wklken/k-tmux/master/tmux.conf > ~/.tmux.conf
+curl https://raw.githubusercontent.com/nerdneilsfield/k-tmux/master/tmux.conf > ~/.tmux.conf
 
 3. Done, enjoy it
 ```
